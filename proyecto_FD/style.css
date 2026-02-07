@@ -1,13 +1,14 @@
-body {
-    font-family: SupercellHeadline-Heavy, sans-serif;
-    src: "./fonts/supercellheadline-heavy.ttf";
-}
-
 * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
+
+body {
+    font-family: SupercellHeadline-Heavy, sans-serif;
+    src: "./fonts/supercellheadline-heavy.ttf";
+}
+
 
 .pad {
     padding: 100px;
